@@ -43,7 +43,7 @@ knit        : slidify::knit2slides
 - FOXL2 is a transcription factor essential for development of female appearance
   and the differentiation of granulosa cell tumors.
 - Tumorgenesis is suspected to be through deregulation of the <b>TGF-β</b> pathway
-- Exact mechanism by which the mutation causes disesase is unknown.
+- Exact mechanism by which the mutation causes disease is unknown.
 - Structure of FOXL2 protein is unknown. 
 
 <img class="float-left" src="assets/img/fox.jpg" width="300" height="300">
@@ -53,7 +53,7 @@ knit        : slidify::knit2slides
 
 ## Presentation
 
-- Tumors are ofted deteced early due to <b>hyperestrogenism</b>.
+- Tumors are often detected early due to <b>hyperestrogenism</b>.
 - May manifest as irregular bleeding, breast or uterus enlargement, breast tenderness,
   amenorrhea, or precocious puberty. [2]
 - Mass effects like abdominal enlargement may be present
@@ -66,8 +66,8 @@ knit        : slidify::knit2slides
 
 - Definitive diagnosis is made by histology after surgical excision via laparotomy.
 - Diagnosis should be suspected in large ovarian masses with signs of hyperestrogenism.
-- <b>Inhibin</b> is a marker for OGCT, (also mucinous epithelial ovarian carcinomas) but it is nonspecific. Used to monitor reccurance. 
-- <b>Estradiol</b> has a sensitivity of aprroximately 70%.[1]
+- <b>Inhibin</b> is a marker for OGCT, (also mucinous epithelial ovarian carcinomas) but it is non-specific. Used to monitor recurrence. 
+- <b>Estradiol</b> has a sensitivity of approximately 70%.[1]
 - <b>Müllerian inhibiting substance</b> is highly specific for OGCT (may not be available)
 - <b>FOXL2</b> gene testing may be an option in the future and would likely be highly sensitive and specific.
 
@@ -90,12 +90,12 @@ knit        : slidify::knit2slides
 
 ## Surgical Therapy 
 
-- For women without intent to have future children TAH/BSO is the reccomended therapy.
+- For women without intent to have future children TAH/BSO is the recommended therapy.
 - For women who wish to preserve fertility, unilateral oorphectomy is an option if the contralateral ovary appears normal to inspection/biopsy. Unilateral excision has an equivalent cure rate in early stages 
 
 - For pregnant women "Optimal time for abdominal exploration is approximately 16-18 weeks of gestation" 
 - If tumor has spread outside the ovary "Total abdominal hysterectomy and bilateral
-   salpingo-oophorectomy, with removal of the fetus and placenta in toto" should be consided [1]
+   salpingo-oophorectomy, with removal of the fetus and placenta in toto" should be considered [1]
 
 - For most patients unilateral salpingo-oophorectomy is the best option. [5]
 
@@ -104,10 +104,10 @@ knit        : slidify::knit2slides
 
 ## Pharmacologic Therapy
 
-- Not clear when to use adjuvant therapy, reccomendations vary widely with some treating all stages with chemo and others only treating reccurance after surgery. General lack of evidence in this area.
+- Not clear when to use adjuvant therapy, recommendations vary widely with some treating all stages with chemo and others only treating recurrence after surgery. General lack of evidence in this area.
 - Some studies suggests that juvenile tumors should be treated with cisplatin based chemotherapy. [6] <b> Ovarian sex cord-stromal tumors in children and adolescents.
  Clin Oncol. 2003 </b>
- - NCCN reccomends treating stage II to IV [2]
+ - NCCN recommends treating stage II to IV [2]
 - The current regimen for OGCT is bleomycin, etoposide, and cisplatin [5]
 
 <img class="float-left" src="assets/img/cisplatin.png" width="100" height="200">
@@ -130,7 +130,7 @@ knit        : slidify::knit2slides
 ## Radiotherapy 
 
 - The evidence for RT in OGCT is weak.
-- There is no concensus on postoperative radiotherapy,
+- There is no consensus on postoperative radiotherapy,
 
 ---
 
@@ -140,7 +140,7 @@ knit        : slidify::knit2slides
 - Two variants: juvenile and adult with minor differences in management
 - Management is primarily surgical
 - Future screening may be improved through FOXL2 assays
-- Potential for research into the pathogensis with interesting connections to embryologic development of sexual dimorphism.
+- Potential for research into the pathogenesis with interesting connections to embryologic development of sexual dimorphism.
 
 ---
 
