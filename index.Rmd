@@ -32,6 +32,7 @@ knit        : slidify::knit2slides
 - Granulosa cell tumors account for 2% of ovarian tumors in women [1]
 - 95% of cases are of the adult type
 - 5-year survival rate from the first recurrence is 55%
+
 <img class="float-left" src="assets/img/follicle.gif" width="400" height="300">
 [11]
 
@@ -162,7 +163,17 @@ knit        : slidify::knit2slides
 5. https://www.ncbi.nlm.nih.gov/pubmed?term=7530680
 6. https://www.ncbi.nlm.nih.gov/pubmed?term=12805338
 7. https://www.ncbi.nlm.nih.gov/pubmed?term=19524286
-8. http://library.med.utah.edu/WebPath/FEMHTML/FEM057.html
-9. https://www.bowelcanceraustralia.org/images/Treatment_Avastin_770v1.jpg
-10. https://www.ncbi.nlm.nih.gov/pubmed?term=19162310
-11. http://www.dartmouth.edu/~anatomy/Histo/lab_6/female/DMS173/06.gif
+
+---
+
+## References Continued
+
+- 8 http://library.med.utah.edu/WebPath/FEMHTML/FEM057.html
+
+- 9 https://www.bowelcanceraustralia.org/images/Treatment_Avastin_770v1.jpg
+
+- 10 https://www.ncbi.nlm.nih.gov/pubmed?term=19162310
+
+- 11 http://www.dartmouth.edu/~anatomy/Histo/lab_6/female/DMS173/06.gif
+
+---
