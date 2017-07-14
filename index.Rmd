@@ -32,8 +32,8 @@ knit        : slidify::knit2slides
 - Granulosa cell tumors account for 2% of ovarian tumors in women [1]
 - 95% of cases are of the adult type
 - 5-year survival rate from the first recurrence is 55%
-
-<img class="float-left" src="assets/img/tumor.jpg"  width="300" height="300"> [8]
+<img class="float-left" src="assets/img/follicle.gif" width="400" height="300">
+[11]
 
 ---
 
@@ -59,6 +59,8 @@ knit        : slidify::knit2slides
 - Mass effects like abdominal enlargement may be present
 - May occur with endometrial cancer in postmenopausal women.
 - "Palpable mass can be found in 85-97% of patients" [1]
+
+<img class="float-left" src="assets/img/tumor.jpg"  width="300" height="300"> [8]
 
 ---
 
@@ -101,6 +103,13 @@ knit        : slidify::knit2slides
 
 ---
 
+## Special Considerations in Surgery
+
+- <b>Patterns of metastasis in sex cord-stromal tumors of the ovary: can routine staging lymphadenectomy be omitted?</b>
+- Yes, but only if diagnosis is known at time of surgery 
+- "Of the 58 patients who had lymph nodes sampled during the primary surgery, none had positive nodes." [10]
+
+---
 
 ## Pharmacologic Therapy
 
@@ -155,3 +164,5 @@ knit        : slidify::knit2slides
 7. https://www.ncbi.nlm.nih.gov/pubmed?term=19524286
 8. http://library.med.utah.edu/WebPath/FEMHTML/FEM057.html
 9. https://www.bowelcanceraustralia.org/images/Treatment_Avastin_770v1.jpg
+10. https://www.ncbi.nlm.nih.gov/pubmed?term=19162310
+11. http://www.dartmouth.edu/~anatomy/Histo/lab_6/female/DMS173/06.gif
